@@ -12,6 +12,8 @@
 * [Javalette](https://github.com/lukaszcz/javalette): An educational
   compiler for Javalette, written in C.
 
+* [ASM32](https://github.com/lukaszcz/asm32): An educational assembler for a subset of 32-bit x86 instructions.
+
 * [CMakefile](https://github.com/lukaszcz/cmakefile): Automatic build
   system for C and C++.
 
@@ -42,5 +44,3 @@
   ileancop on the ILTP library.
 
 * [PascalAdt](https://github.com/lukaszcz/pascaladt): A library of algorithms and data structures for the Free Pascal Compiler.
-
-* [ASM32](https://github.com/lukaszcz/asm32): An educational assembler for a subset of 32-bit x86 instructions.
