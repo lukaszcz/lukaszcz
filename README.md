@@ -44,3 +44,5 @@
   ileancop on the ILTP library.
 
 * [PascalAdt](https://github.com/lukaszcz/pascaladt): A library of algorithms and data structures for the Free Pascal Compiler.
+
+* [SrcDoc](https://github.com/lukaszcz/srcdoc): Documentation generator a la doxygen for Free Pascal and Delphi.
