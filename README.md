@@ -1,3 +1,4 @@
+* [Juvix](https://github.com/anoma/juvix): A functional programming language for intent-centric declarative decentralized applications.
 
 * [CoqHammer](https://github.com/lukaszcz/coqhammer): An automated reasoning
   hammer tool for Coq - proof automation for dependent type theory.
