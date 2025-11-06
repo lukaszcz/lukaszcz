@@ -3,6 +3,8 @@
 * [CoqHammer](https://github.com/lukaszcz/coqhammer): An automated reasoning
   hammer tool for Coq - proof automation for dependent type theory.
 
+* [Lean2RISC0](https://github.com/anoma/risc0-lean-example): Cross-compiling Lean 4 to the RISC Zero zkVM.
+
 * [Coinduction](https://github.com/lukaszcz/coinduction): A Coq plugin
   to help with proofs by coinduction.
 
