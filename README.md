@@ -3,10 +3,6 @@
 * [CoqHammer](https://github.com/lukaszcz/coqhammer): An automated reasoning
   hammer tool for Coq - proof automation for dependent type theory.
 
-* [AgBlogger](https://github.com/agblogger/agblogger): A self-hosted, Markdown-first blogging platform.
-
-* [DiffNav Extra](https://github.com/lukaszcz/diffnav-extra): A fork of DiffNav with extra features.
-
 * [Lean2RISC0](https://github.com/anoma/risc0-lean-example): Cross-compiling Lean 4 to the RISC Zero zkVM.
 
 * [Coinduction](https://github.com/lukaszcz/coinduction): A Coq plugin
@@ -41,6 +37,10 @@
 
 * [tptp2ileancop](https://github.com/lukaszcz/tptp2ileancop): Run
   ileancop on the ILTP library.
+
+* [AgBlogger](https://github.com/agblogger/agblogger): A self-hosted, Markdown-first blogging platform.
+
+* [DiffNav Extra](https://github.com/lukaszcz/diffnav-extra): A fork of DiffNav with extra features.
 
 * [PascalAdt](https://github.com/lukaszcz/pascaladt): A library of algorithms and data structures for the Free Pascal Compiler.
 
